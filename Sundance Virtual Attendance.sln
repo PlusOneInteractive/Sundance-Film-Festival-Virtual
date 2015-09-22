@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sundance Virtual Attendance.CSharp.Plugins", "Sundance Virtual Attendance.CSharp.Plugins.csproj", "{4BA8B0F9-6561-50D4-96FD-E73634D78EC6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sundance Virtual Attendance.CSharp", "Sundance Virtual Attendance.CSharp.csproj", "{8E2FFA1B-DBCC-69B0-89E6-70F18F33BB59}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sundance Virtual Attendance.CSharp.Editor", "Sundance Virtual Attendance.CSharp.Editor.csproj", "{CA4468F7-1E9D-4F91-AD4F-D124A552EBD4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4BA8B0F9-6561-50D4-96FD-E73634D78EC6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4BA8B0F9-6561-50D4-96FD-E73634D78EC6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4BA8B0F9-6561-50D4-96FD-E73634D78EC6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4BA8B0F9-6561-50D4-96FD-E73634D78EC6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8E2FFA1B-DBCC-69B0-89E6-70F18F33BB59}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8E2FFA1B-DBCC-69B0-89E6-70F18F33BB59}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8E2FFA1B-DBCC-69B0-89E6-70F18F33BB59}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8E2FFA1B-DBCC-69B0-89E6-70F18F33BB59}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CA4468F7-1E9D-4F91-AD4F-D124A552EBD4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CA4468F7-1E9D-4F91-AD4F-D124A552EBD4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CA4468F7-1E9D-4F91-AD4F-D124A552EBD4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CA4468F7-1E9D-4F91-AD4F-D124A552EBD4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
